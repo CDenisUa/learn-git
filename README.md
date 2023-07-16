@@ -15,3 +15,5 @@ git merge `<feature branch name> - merging branches from feature branch to recei
 git remote add origin `<url> - binding local repository with global repository like github.`
 
 git push -u origin `<branch> - binding local branch with global branch of repository.`
+
+git remote -v - check links with remote repositories.
